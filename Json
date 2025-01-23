@@ -1,0 +1,23 @@
+{
+  "name": "Удалить",
+  "activity": true,
+  "notes": "Удалить обязательно",
+  "pattern": {
+    "route": [
+      {
+        "step": 1,
+        "department": "5df7c26e-7eca-4eae-a47b-d8f4664c212a",
+        "need_document": true,
+        "role_type": "Аналитик",
+        "id_template_document":  "5df7c26e-7eca-4eae-a47b-d8f4664c212a"
+      },
+      {
+        "step": 2,
+        "department": "5df7c26e-7eca-4eae-a47b-d8f4664c212a",
+        "need_document": false,
+        "role_type": "Директор"
+       }
+    ]
+  },
+  "application_type": "9db420b8-e741-4bc8-a4b9-6c2018d2a8d5"
+}
